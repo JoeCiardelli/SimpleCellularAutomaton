@@ -2,7 +2,7 @@
 
 GameOfLife.py is written for python 2.7
 
-To use from commandline there are three options:
+To use from commandline there are four options:
 
 1. Use the default test board (provided with the specs) that is hardcoded in
 
