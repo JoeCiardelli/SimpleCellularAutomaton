@@ -2,6 +2,9 @@
 
 GameOfLife.py is written for python 2.7
 
+Gameboards can be composed with ones and zeros as well as asterisks and zeros.
+The game will output gameboards with asterisks in place of ones for better contrast.
+
 To use from commandline there are four options:
 
 1. Use the default test board (provided with the specs) that is hardcoded in
