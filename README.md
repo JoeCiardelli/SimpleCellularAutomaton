@@ -24,5 +24,7 @@ To use from commandline there are four options:
    allowing the command to be called repeatedly and the gameboard to consecutively progress
 
    $ python GameOfLife.py file gameboard3 loop
+   <br>
    $ python GameOfLife.py file gameboard3 loop
+   <br>
    ...
